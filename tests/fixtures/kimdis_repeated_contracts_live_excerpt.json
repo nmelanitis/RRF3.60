@@ -1,0 +1,91 @@
+{
+  "source_response_sha256": "bfca1c96f6e8374c2cd09d2dd1fe5872ccdfef353eea0e44908b0ca077c8fcda",
+  "source_query_date": "2026-10-01",
+  "content": [
+    {
+      "referenceNumber": "26SYMV019905387",
+      "prevReferenceNo": null,
+      "nextRefNo": null,
+      "contractSignedDate": "2026-10-01",
+      "cancelled": false,
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "country": {"key": "GR", "value": "Ελλάδα"},
+            "vatNumber": "082525697",
+            "greekVatNumber": false,
+            "name": "ΑΝΑΣΤ. ΜΑΥΡΟΓΕΝΗΣ Α.Ε."
+          }
+        ]
+      }
+    },
+    {
+      "referenceNumber": "26SYMV019905379",
+      "prevReferenceNo": null,
+      "nextRefNo": null,
+      "contractSignedDate": "2026-10-01",
+      "cancelled": false,
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "country": {"key": "GR", "value": "Ελλάδα"},
+            "vatNumber": "082525697",
+            "greekVatNumber": false,
+            "name": "ΑΝΑΣΤ. ΜΑΥΡΟΓΕΝΗΣ Α.Ε."
+          }
+        ]
+      }
+    },
+    {
+      "referenceNumber": "26SYMV019905349",
+      "prevReferenceNo": null,
+      "nextRefNo": null,
+      "contractSignedDate": "2026-10-01",
+      "cancelled": false,
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "country": {"key": "GR", "value": "Ελλάδα"},
+            "vatNumber": "082525697",
+            "greekVatNumber": false,
+            "name": "ΑΝΑΣΤΑΣΙΟΣ ΜΑΥΡΟΓΕΝΗΣ ΑΕ"
+          }
+        ]
+      }
+    },
+    {
+      "referenceNumber": "26SYMV019905246",
+      "prevReferenceNo": null,
+      "nextRefNo": null,
+      "contractSignedDate": "2026-10-01",
+      "cancelled": false,
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "country": {"key": "GR", "value": "Ελλάδα"},
+            "vatNumber": "082525697",
+            "greekVatNumber": false,
+            "name": "ΑΝΑΣΤ. ΜΑΥΡΟΓΕΝΗΣ Α.Ε."
+          }
+        ]
+      }
+    },
+    {
+      "referenceNumber": "26SYMV019903858",
+      "prevReferenceNo": null,
+      "nextRefNo": null,
+      "contractSignedDate": "2026-10-01",
+      "cancelled": false,
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "country": {"key": "GR", "value": "Ελλάδα"},
+            "vatNumber": "082525697",
+            "greekVatNumber": false,
+            "name": "ΑΝΑΣΤ. ΜΑΥΡΟΓΕΝΗΣ Α.Ε."
+          }
+        ]
+      }
+    }
+  ]
+}

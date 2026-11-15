@@ -1,0 +1,28 @@
+{
+  "content": [
+    {
+      "referenceNumber": "26SYMV019905518",
+      "prevReferenceNo": null,
+      "nextRefNo": null,
+      "contractSignedDate": "2026-10-01",
+      "procedureType": {
+        "key": "6",
+        "value": "Απευθείας ανάθεση"
+      },
+      "cancelled": false,
+      "fundingDetails": {
+        "publicFundingRef": null,
+        "publicFundingRefNum": null,
+        "publicFundingRefOps": null,
+        "cofundProgramRef": null,
+        "selfFundProgramRef": "010.2420903001",
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      }
+    }
+  ],
+  "totalPages": 21,
+  "totalElements": 1039,
+  "number": 0,
+  "last": false
+}

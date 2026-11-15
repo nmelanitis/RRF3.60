@@ -1,0 +1,20 @@
+{
+  "source_url": "https://webgate.ec.europa.eu/competition/transparency/public?lang=en",
+  "export_scope": {
+    "country": "EL",
+    "date_from": "2024-01-01",
+    "date_to": "2026-10-30",
+    "measure_filters": [],
+    "full_result_export": true
+  },
+  "coverage": {
+    "description": "Full-result Greece export for the recorded date range; not exhaustive of all aid because publication thresholds and deadlines vary by legal basis.",
+    "publication_thresholds": [
+      "Record the applicable legal-basis thresholds; in many cases publication is required above EUR 100,000."
+    ],
+    "publication_deadlines": [
+      "Record the applicable legal-basis deadlines; in many cases publication is required within six months."
+    ]
+  },
+  "measure_evidence": []
+}

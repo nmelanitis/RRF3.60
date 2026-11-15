@@ -1,0 +1,40 @@
+{
+  "source_response_sha256": "9fae497f085e6650f11ae84ad132513f7ef6c7aa5542537f97eb0bbfa76b22e5",
+  "source_query_date": "2026-10-01",
+  "content": [
+    {
+      "referenceNumber": "26SYMV019905416",
+      "prevReferenceNo": null,
+      "nextRefNo": "26SYMV019905426",
+      "contractSignedDate": "2026-09-28",
+      "cancelled": false,
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "country": {"key": "GR", "value": "Ελλάδα"},
+            "vatNumber": "998347888",
+            "greekVatNumber": false,
+            "name": "«Ν&Τ ΡΟΥΦΑΣ  Ο.Ε"
+          }
+        ]
+      }
+    },
+    {
+      "referenceNumber": "26SYMV019905426",
+      "prevReferenceNo": "26SYMV019905416",
+      "nextRefNo": "26SYMV019916950",
+      "contractSignedDate": "2026-09-28",
+      "cancelled": false,
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "country": {"key": "GR", "value": "Ελλάδα"},
+            "vatNumber": "998347888",
+            "greekVatNumber": false,
+            "name": "«Ν&Τ ΡΟΥΦΑΣ  Ο.Ε"
+          }
+        ]
+      }
+    }
+  ]
+}

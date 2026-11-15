@@ -1,0 +1,31 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+.idea/
+.DS_Store
+/tmp/
+
+# Collected source material and generated analysis artifacts are published
+# separately as a research-data deposit. Keep only the curated withdrawal
+# reports and their reproducibility scripts in Git.
+/data/**
+!/data/reports/
+!/data/reports/20261113T082105Z-a0835349-withdrawals/
+!/data/reports/20261113T082105Z-a0835349-withdrawals/withdrawal-findings-presentation.md
+!/data/reports/20261113T082105Z-a0835349-withdrawals/withdrawal-report.md
+!/data/reports/20261113T082105Z-a0835349-withdrawals/all-104-withdrawn-projects.csv
+!/data/reports/20261113T082105Z-a0835349-withdrawals/extract_evidence.py
+!/data/reports/20261113T082105Z-a0835349-withdrawals/build_report.py
+

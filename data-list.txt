@@ -1,0 +1,60 @@
+# crawlD withdrawal-analysis data deposit
+
+This file records the local data needed to reproduce the withdrawal findings.
+The paths below are intentionally ignored by Git and should be preserved in a
+versioned research-data deposit. Paths are relative to the repository root.
+
+## Recommended Zenodo bundles
+
+1. `crawld-greece20-snapshot-20261111T215959Z-a25da02c.tar.gz`
+   - Source: `data/snapshots/20261111T215959Z-a25da02c/`
+   - Contents: complete Greece 2.0 catalogue snapshot and saved decision PDFs
+   - Size on disk: 5,105,516 KiB (approximately 4.87 GiB)
+   - File count: 2,854
+   - Snapshot status: complete
+   - `manifest.json` SHA-256: `7141b3b1586b78a68dfd01286b63ce7f2226f515a0a909b9a3bcd4ad594e1bca`
+   - `snapshot.sqlite3` SHA-256: `92908c3df48247d1b5499efaf61a77fa4b60dfb506a3154f549cad0d4bf003d4`
+   - Record the archive SHA-256 here after packaging: `TBD`
+
+2. `crawld-withdrawal-analysis-inputs-20261113T082105Z-a0835349.tar.gz`
+   - `data/analyses/20261113T082105Z-a0835349/analysis.sqlite3`
+     - Size: 671,780 KiB
+     - SHA-256: `df10398ad7c1c761a1c25f42b9a26e9126cf1687d9b3c5e754cc5a08a01844b5`
+   - `data/analyses/20261113T082105Z-a0835349/manifest.json`
+     - Size: 192 KiB
+     - SHA-256: `f29cf061256c16692f19eb49b8f410d1ff27a758b1d12bea6d6db07952ba187d`
+   - `data/reports/20261113T082105Z-a0835349-withdrawals/extracted-evidence.json`
+     - Size: 4,296 KiB
+     - SHA-256: `fd268ab895ba20d672c85f521edb5a47bc955d1363348a0a66482e16d4df34dd`
+   - `data/reports/20261113T082105Z-a0835349-withdrawals/budget-tables.txt`
+     - Size: 340 KiB
+     - SHA-256: `1ecb9a7061aed1acc8f5e27beb74b4c89ba0a4b4ac05418581f19a841b63ced0`
+   - `data/reports/20261113T082105Z-a0835349-withdrawals/withdrawn-projects.json`
+     - Size: 504 KiB
+     - SHA-256: `3998b47bc399509335b0c44eb86947028170a797229c1de8c7116930eda970b9`
+   - Record the archive SHA-256 here after packaging: `TBD`
+
+3. `crawld-withdrawal-manual-review-images-20261113.tar.gz`
+   - Source: `tmp/pdfs/withdrawals/`
+   - Contents: six rendered pages used for manual budget-table checks
+   - Size on disk: 1,328 KiB
+   - File count: 6
+   - `5150288.png` SHA-256: `51521c5a99cc034c234b9bb3e956287afe48995a218d137c79b29749b09874e2`
+   - `5179098.png` SHA-256: `cde87bb7c116b46834c6624090039899d4ebe6307b97663b0019d80b67d24945`
+   - `5185578.png` SHA-256: `e6f6ae971ff76c8f3091a1a2c9ffb9a36c9125ce7025f8ba049d765bbac12011`
+   - `5186570.png` SHA-256: `5186036354e465c7a800b61f655f739960b9f8239a9a7e325832887b55a23b3a`
+   - `5202980.png` SHA-256: `c709997c5d52102a99ab64c7f71fb73ad725260679ead4af664a549b760712e2`
+   - `5225632.png` SHA-256: `bad80144abd5a1d824d82577a62f387f685cc243265c270ed2d4aa23518cf9a5`
+   - Record the archive SHA-256 here after packaging: `TBD`
+
+## Files published in Git
+
+Include these small public outputs in the Zenodo record as individual files as
+well, so the DOI resolves directly to the reported findings:
+
+- `data/reports/20261113T082105Z-a0835349-withdrawals/withdrawal-findings-presentation.md`
+- `data/reports/20261113T082105Z-a0835349-withdrawals/withdrawal-report.md`
+- `data/reports/20261113T082105Z-a0835349-withdrawals/all-104-withdrawn-projects.csv`
+
+The reproducibility scripts are kept in the same report directory and tracked
+in Git: `extract_evidence.py` and `build_report.py`.

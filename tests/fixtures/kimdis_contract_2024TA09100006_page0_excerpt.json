@@ -1,0 +1,66 @@
+{
+  "content": [
+    {
+      "title": "2η ΤΡΟΠΟΠΟΙΗΣΗ ΤΟΥ ΑΠΟ 27.06.2025 ΣΥΜΦΩΝΗΤΙΚΟΥ ΠΑΡΟΧΗΣ ΥΠΗΡΕΣΙΩΝ (ΑΔΑΜ: 25SYMV017115178 2025-06-30)",
+      "referenceNumber": "26SYMV019324212",
+      "prevReferenceNo": null,
+      "nextRefNo": null,
+      "contractSignedDate": "2026-06-25",
+      "procedureType": {"key": "1", "value": "Ανοιχτή διαδικασία"},
+      "assignedContract": {"key": "2", "value": "Όχι"},
+      "cancelled": false,
+      "cancellationDate": null,
+      "cancellationReason": null,
+      "cancellationADA": null,
+      "decisionRelatedAda": null,
+      "diavgeiaADA": null,
+      "totalCostWithVAT": 6619250.2,
+      "totalCostWithoutVAT": 5338105.0,
+      "fundingDetails": {
+        "publicFundingRef": "091",
+        "publicFundingRefNum": "2024ΤΑ09100006",
+        "publicFundingRefOps": "5224393",
+        "cofundProgramRef": null,
+        "selfFundProgramRef": null,
+        "espaFundProgramRef": null,
+        "regularBudgetFundedProgramRef": null
+      },
+      "contractingDataDetails": {
+        "contractingMembersDataList": [
+          {
+            "country": {"key": "GR", "value": "Ελλάδα"},
+            "vatNumber": "800866750",
+            "greekVatNumber": false,
+            "name": "«ICOMM CALL CENTER IKE»",
+            "transactorDescription": null
+          },
+          {
+            "country": {"key": "GR", "value": "Ελλάδα"},
+            "vatNumber": "999636820",
+            "greekVatNumber": false,
+            "name": "«CHOOSE ΑΝΩΝΥΜΟΣ ETAIΡΕΙΑ ΟΛΙΚΗΣ ΕΠΙΚΟΙΝΩΝΙΑΣ»",
+            "transactorDescription": null
+          },
+          {
+            "country": {"key": "GR", "value": "Ελλάδα"},
+            "vatNumber": "099491762",
+            "greekVatNumber": false,
+            "name": "«COSMOTE E-VALUE ΥΠΗΡΕΣΙΕΣ CONTACT CENTER ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ»",
+            "transactorDescription": null
+          },
+          {
+            "country": {"key": "GR", "value": "Ελλάδα"},
+            "vatNumber": "094428065",
+            "greekVatNumber": false,
+            "name": "«ERNST & YOUNG BUSINESS ADVISORY SOLUTIONS»",
+            "transactorDescription": null
+          }
+        ]
+      }
+    }
+  ],
+  "totalPages": 1,
+  "totalElements": 1,
+  "number": 0,
+  "last": true
+}
