@@ -8,6 +8,8 @@ Recovery and Resilience Facility (RRF) grant actions under **Greece 2.0**.
 - [Read the withdrawal findings, which identified 104 WITHDRAWN projects with a total of €2.905 billion in approved budgets before withdrawal](data/reports/20261113T082105Z-a0835349-withdrawals/withdrawal-findings-presentation.md)
 - [Download the full list of all 104 withdrawn projects (CSV)](data/reports/20261113T082105Z-a0835349-withdrawals/all-104-withdrawn-projects.csv)
 
+**Data and reproducibility:** [Zenodo record](https://zenodo.org/records/24249708) · [DOI: 10.5281/zenodo.24249708](https://doi.org/10.5281/zenodo.24249708)
+
 `crawlD` is a local Python application for reconstructing and analysing the
 public administrative history of Greece's Recovery and Resilience Facility
 (Ταμείο Ανάκαμψης και Ανθεκτικότητας).

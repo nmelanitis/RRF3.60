@@ -12,6 +12,8 @@
 **Prepared:** 13 November 2026  
 **Source snapshot cutoff:** 11 November 2026
 
+**Data and reproducibility:** [Zenodo record](https://zenodo.org/records/24249708) · [DOI: 10.5281/zenodo.24249708](https://doi.org/10.5281/zenodo.24249708)
+
 | Finding | Result |
 |---|---:|
 | Identified withdrawn projects, counted once by OPS | **104** |

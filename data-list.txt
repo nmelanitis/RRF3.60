@@ -1,10 +1,13 @@
 # crawlD withdrawal-analysis data deposit
 
+Zenodo record: <https://zenodo.org/records/24249708>  
+DOI: <https://doi.org/10.5281/zenodo.24249708>
+
 This file records the local data needed to reproduce the withdrawal findings.
 The paths below are intentionally ignored by Git and should be preserved in a
 versioned research-data deposit. Paths are relative to the repository root.
 
-## Recommended Zenodo bundles
+## Zenodo bundles
 
 1. `crawld-greece20-snapshot-20261111T215959Z-a25da02c.tar.gz`
    - Source: `data/snapshots/20261111T215959Z-a25da02c/`
@@ -14,7 +17,7 @@ versioned research-data deposit. Paths are relative to the repository root.
    - Snapshot status: complete
    - `manifest.json` SHA-256: `7141b3b1586b78a68dfd01286b63ce7f2226f515a0a909b9a3bcd4ad594e1bca`
    - `snapshot.sqlite3` SHA-256: `92908c3df48247d1b5499efaf61a77fa4b60dfb506a3154f549cad0d4bf003d4`
-   - Record the archive SHA-256 here after packaging: `TBD`
+   - Record the archive SHA-256 here after packaging: `b89c40b4fac3255d44c9419ce68bf4584e7e0f38afaf5e773c50ed9fae433261`
 
 2. `crawld-withdrawal-analysis-inputs-20261113T082105Z-a0835349.tar.gz`
    - `data/analyses/20261113T082105Z-a0835349/analysis.sqlite3`
@@ -32,7 +35,7 @@ versioned research-data deposit. Paths are relative to the repository root.
    - `data/reports/20261113T082105Z-a0835349-withdrawals/withdrawn-projects.json`
      - Size: 504 KiB
      - SHA-256: `3998b47bc399509335b0c44eb86947028170a797229c1de8c7116930eda970b9`
-   - Record the archive SHA-256 here after packaging: `TBD`
+   - Archive SHA-256: `a6c907e15b79d0f0aae4b38254acef9da630a57eeeea84a7ef199979c816eff8`
 
 3. `crawld-withdrawal-manual-review-images-20261113.tar.gz`
    - Source: `tmp/pdfs/withdrawals/`
@@ -45,7 +48,7 @@ versioned research-data deposit. Paths are relative to the repository root.
    - `5186570.png` SHA-256: `5186036354e465c7a800b61f655f739960b9f8239a9a7e325832887b55a23b3a`
    - `5202980.png` SHA-256: `c709997c5d52102a99ab64c7f71fb73ad725260679ead4af664a549b760712e2`
    - `5225632.png` SHA-256: `bad80144abd5a1d824d82577a62f387f685cc243265c270ed2d4aa23518cf9a5`
-   - Record the archive SHA-256 here after packaging: `TBD`
+   - Archive SHA-256: `64a5c3bbf0c5c2365adff90df0513a4b40d9df1419f952434ae6ca0da5f8bd9a`
 
 ## Files published in Git
 
